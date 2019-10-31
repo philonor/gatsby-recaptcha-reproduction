@@ -2,7 +2,7 @@ import ContactTemplate from "../templates/contact";
 import React from "react";
 
 const ContactDePage = () => (
-  <ContactTemplate title="Kontakt">
+  <ContactTemplate title="Kontakt" lang="de">
     Hi an unsere Deutschen Besucher!
   </ContactTemplate>
 );
